@@ -1,7 +1,7 @@
 from flask import Flask, url_for, render_template, request
+
 from app import app
 
-# url_for('static', filename='index.html')
 @app.route('/')
 def root():
 	return render_template("index.html")
@@ -14,10 +14,10 @@ def clinic():
 def dashboard():
 	return render_template("dashboard.html")
 
-@app.route("/generate_voucher", methods=["POST"])
-def generate_voucher():
-	print request.form
-	return "success"
+# @app.route("/generate_voucher", methods=["POST"])
+# def generate_voucher():
+# 	print request.form
+# 	return "success"
 
 @app.route("/check_in_voucher", methods=["POST"])
 def check_in_voucher():
