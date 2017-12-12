@@ -1,8 +1,8 @@
 
 Having run a feature importance analysis using linear regression and random forests in our EDA
 file, we found that the EMS Calls per capita was most correlated with the following features: 
-  (1) High Blood Pressure 
-  (2) Diabetes 
+  (1) High Blood Pressure (Chronic disease)  
+  (2) Diabetes (Chronic disease) 
   (3) Elderly Living Alone
 
 We then mapped out these features as compared against EMS calls per capita: 
