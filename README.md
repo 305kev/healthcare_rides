@@ -8,7 +8,8 @@ In this team, a pair of developers worked on creating the infastructure for the 
 To view our Healthcare rides presentation click on the URL: 
 https://docs.google.com/presentation/d/1cXxUhq2JyHX_tkW0XXnps7vmmY_zVxLwTt89jSHOj4g/edit?usp=sharing
 
-To view a few sample maps: 
+To view a few sample maps:
+
 (1) High Blood Pressure: https://arcg.is/1D9jfW 
 
 (2) Elderly Living Alone: https://arcg.is/109myj 
