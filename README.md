@@ -10,8 +10,10 @@ https://docs.google.com/presentation/d/1cXxUhq2JyHX_tkW0XXnps7vmmY_zVxLwTt89jSHO
 
 To view a few sample maps: 
 (1) High Blood Pressure: https://arcg.is/1D9jfW 
-(2) Elderly Living Alone: https://arcg.is/109myj
-(3) Diabetes Rates: https://arcg.is/49beC
+
+(2) Elderly Living Alone: https://arcg.is/109myj 
+
+(3) Diabetes Rates: https://arcg.is/49beC 
 
 To run the application: 
 
