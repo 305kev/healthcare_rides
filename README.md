@@ -10,11 +10,21 @@ https://docs.google.com/presentation/d/1cXxUhq2JyHX_tkW0XXnps7vmmY_zVxLwTt89jSHO
 
 To view a few sample maps:
 
-(1) High Blood Pressure: https://arcg.is/1D9jfW 
+<p align="center"> 
+  (1) High Blood Pressure 
+<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.10.47 PM.png">
+</p>
 
-(2) Elderly Living Alone: https://arcg.is/109myj 
+<p align="center"> 
+  (2) Elderly Living Alone:
+<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.12.01 PM.png">
+</p>
 
-(3) Diabetes Rates: https://arcg.is/49beC 
+<p align="center"> 
+  (3) Diabetes Rates 
+<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.13.41 PM.png">
+</p>
+
 
 To run the application: 
 
