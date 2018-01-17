@@ -12,17 +12,17 @@ To view a few sample maps:
 
 <p align="center"> 
   (1) High Blood Pressure 
-<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.10.47 PM.png">
+<img src="images/Screen Shot 2018-01-16 at 12.10.47 PM.png">
 </p>
 
 <p align="center"> 
   (2) Elderly Living Alone:
-<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.12.01 PM.png">
+<img src="images/Screen Shot 2018-01-16 at 12.12.01 PM.png">
 </p>
 
 <p align="center"> 
   (3) Diabetes Rates 
-<img src="healthcare_rides/images/Screen Shot 2018-01-16 at 12.13.41 PM.png">
+<img src="images/Screen Shot 2018-01-16 at 12.13.41 PM.png">
 </p>
 
 
